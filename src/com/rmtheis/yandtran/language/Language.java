@@ -52,6 +52,7 @@ public enum Language {
   SPANISH("es"),
   SWEDISH("sv"),
   TURKISH("tr"),
+  TATAR("tt"),
   UKRAINIAN("uk");
 
   /**
